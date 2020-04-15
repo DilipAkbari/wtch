@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="39438" started-at="2020-04-11T16:14:31Z" finished-at="2020-04-11T16:15:10Z">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="39438" started-at="2020-04-11T16:14:31Z" finished-at="2020-04-11T16:15:10Z">
+      <class name="com.demo.nopcommerce.testsuite.LoginTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.demo.nopcommerce.testsuite.LoginTest@1753acfe]" name="openBrowser" is-config="true" duration-ms="18694" started-at="2020-04-11T16:14:31Z" finished-at="2020-04-11T16:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLoginPage()[pri:0, instance:com.demo.nopcommerce.testsuite.LoginTest@1753acfe]" name="verifyUserShouldNavigateToLoginPage" duration-ms="2077" started-at="2020-04-11T16:14:50Z" finished-at="2020-04-11T16:14:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLoginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.nopcommerce.testsuite.LoginTest@1753acfe]" name="tearDown" is-config="true" duration-ms="1352" started-at="2020-04-11T16:14:52Z" finished-at="2020-04-11T16:14:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.nopcommerce.testsuite.LoginTest -->
+      <class name="com.demo.nopcommerce.testsuite.LoginTest1">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.demo.nopcommerce.testsuite.LoginTest1@7c16905e]" name="openBrowser" is-config="true" duration-ms="13734" started-at="2020-04-11T16:14:53Z" finished-at="2020-04-11T16:15:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLoginPage1()[pri:0, instance:com.demo.nopcommerce.testsuite.LoginTest1@7c16905e]" name="verifyUserShouldNavigateToLoginPage1" duration-ms="2355" started-at="2020-04-11T16:15:07Z" finished-at="2020-04-11T16:15:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLoginPage1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.nopcommerce.testsuite.LoginTest1@7c16905e]" name="tearDown" is-config="true" duration-ms="1134" started-at="2020-04-11T16:15:09Z" finished-at="2020-04-11T16:15:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.nopcommerce.testsuite.LoginTest1 -->
+    </test> <!-- Login Test -->
+  </suite> <!-- testsuite -->
+</testng-results>

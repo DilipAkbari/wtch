@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e84822-947f-4bed-84c6-8b5e0d2aa1e6" name="Default Changelist" comment="" />
+    <list default="true" id="a5e84822-947f-4bed-84c6-8b5e0d2aa1e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../git dowbload clone/selenium-practice-master/src/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework21032020/src/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/Computers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/homework/BooksClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/homework/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/homework/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/homework29/LogInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/homework29/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork-15-02-2020" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork-15-02-2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barclays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../barclays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../harrow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrow/out/production/harrow/browsertwsting/FireFoxTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../harrow/out/production/harrow/browsertwsting/FireFoxTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrow/src/browsertwsting/FireFoxTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../harrow/src/browsertwsting/FireFoxTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework07032020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework07032020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework210320/driver/src/BookClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/BookClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework210320/driver/src/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22.02.2020" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_22.02.2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../java-practice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerce/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerce/nopcommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerce/nopcommerce.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FireFoxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FireFoxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/alert/TestAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/alert/TestAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wcht/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wcht/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +54,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YnyXL2I49Xth7PW8hDCWdHCIA5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,10 +68,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/driver" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/soft/Selenium-Jar/hamcrest-core-1.3.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
@@ -36,7 +80,7 @@
       <recent name="C:\Users\akbar\IdeaProjects\selenium-practice\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FireFoxTest">
+  <component name="RunManager" selected="JUnit.TestAlert">
     <configuration name="CromeBrowserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="browsertesting.CromeBrowserTest" />
       <module name="selenium-practice" />
@@ -57,8 +101,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="alert" />
+      <option name="MAIN_CLASS_NAME" value="alert.TestAlert" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAlert.alert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="alert" />
+      <option name="MAIN_CLASS_NAME" value="alert.TestAlert" />
+      <option name="METHOD_NAME" value="alert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAlert.alertExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="alert" />
+      <option name="MAIN_CLASS_NAME" value="alert.TestAlert" />
+      <option name="METHOD_NAME" value="alertExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestAlert" />
+        <item itemvalue="JUnit.TestAlert.alertExample" />
+        <item itemvalue="JUnit.TestAlert.alert" />
         <item itemvalue="Application.FireFoxTest" />
         <item itemvalue="Application.CromeBrowserTest" />
       </list>
@@ -78,38 +172,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1583593199129">
+    <state x="286" y="45" key="#TestAlert.alertExample" timestamp="1584792246023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583593199129" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583685329757">
+    <state x="286" y="45" key="#TestAlert.alertExample/0.0.1366.728@0.0.1366.728" timestamp="1584792246023" />
+    <state x="422" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584872405284">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583685329757" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583685329757">
+    <state x="422" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584872405284" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1584872347348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583685329757" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583685329757">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584872347348" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584804110506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583685329757" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583685329757">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584804110506" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584804110506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583685329757" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1583593270577">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584804110506" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584804110506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583593270577" />
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1583675322690">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584804110506" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584804110506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583675322690" />
-    <state x="65" y="0" key="new project wizard" timestamp="1583685327320">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584804110506" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1584792560703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583685327320" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584792560703" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1584279521907">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584279521907" />
+    <state x="65" y="0" key="new project wizard" timestamp="1584875858668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584875858668" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -124,5 +226,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/selenium_practice$TestAlert_alertExample.ic" NAME="TestAlert.alertExample Coverage Results" MODIFIED="1584792209264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>alert.*</FILTER>
+    </SUITE>
   </component>
 </project>

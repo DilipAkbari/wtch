@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb5e7cf2-f7fd-4a17-b190-2b0968ed4bf8" name="Default Changelist" comment="" />
+    <list default="true" id="bb5e7cf2-f7fd-4a17-b190-2b0968ed4bf8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TestFindElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork-15-02-2020" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork-15-02-2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barclays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../barclays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/browsertwsting/FireFoxTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/browsertwsting/FireFoxTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework07032020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework07032020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22.02.2020" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_22.02.2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../java-practice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerce/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wcht/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wcht/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +27,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\akbar\IdeaProjects\harrow\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1Yu5GSX3FcFyrwmev64e41MLgMt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,7 +59,7 @@
       <recent name="C:\Users\akbar\IdeaProjects\harrow\src\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IDETesting">
+  <component name="RunManager" selected="Application.FireFoxTesting">
     <configuration name="ChromeTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="browsertwsting.ChromeTesting" />
       <module name="harrow" />
@@ -78,9 +101,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FireFoxTesting" />
         <item itemvalue="Application.IDETesting" />
         <item itemvalue="Application.ChromeTesting" />
-        <item itemvalue="Application.FireFoxTesting" />
       </list>
     </recent_temporary>
   </component>
@@ -102,22 +125,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583779790158" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583859903989">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584187597078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583859903989" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583859903989">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584187597078" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584187597078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583859903989" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583859903989">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584187597078" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584187597078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583859903989" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583859903989">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584187597078" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584187597078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583859903989" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584187597078" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1583779793783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

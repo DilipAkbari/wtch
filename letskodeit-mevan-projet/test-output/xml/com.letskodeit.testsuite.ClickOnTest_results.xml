@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="My Test01"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.064">
+  <properties />
+  
+  
+            <testcase name="varifyUserClickToPractice" time="4.064" classname="com.letskodeit.testsuite.ClickOnTest" />
+      
+</testsuite>

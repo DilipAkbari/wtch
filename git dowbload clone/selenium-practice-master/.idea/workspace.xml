@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a5ec4d2-5937-4b55-9c73-62ff0f5ec02e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../barclay-mavan-project/.idea/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../barclay-mavan-project/.idea/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../barclay-mavan-project/.idea/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../barclay-mavan-project/src/main/java/com/barclay/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../barclay-mavan-project/src/main/java/com/barclay/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../barclay-mavan-project/src/main/java/com/barclay/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../barclay-mavan-project/src/main/java/com/barclay/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../barclay-mavan-project/src/main/java/com/barclay/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../barclay-mavan-project/src/test/java/com/barclay/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../barclay-mavan-project/src/test/java/com/barclay/testsuite/MouseHowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/pages/ComputerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/pages/DesktopPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/test/java/com/nopcommerce/demo/testsuite/ComputerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/test/java/com/nopcommerce/demo/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demonopcommerce-maven-myproject/src/test/java/com/nopcommerce/demo/testsuite/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/src/main/java/com/harrow/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/src/main/java/com/harrow/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/src/main/java/com/harrow/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/src/main/java/com/harrow/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/src/main/java/com/harrow/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/src/test/java/com/harrow/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrow-council/src/test/java/com/harrow/testsuite/MouseHowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrowcouncil-maven-work/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrowcouncil-maven-work/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../harrowcouncil-maven-work/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework21032020/src/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letskodeit-mevan-projet/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letskodeit-mevan-projet/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letskodeit-mevan-projet/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letskodeit-mevan-projet/src/main/java/com/letskodeit/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letskodeit-mevan-projet/src/main/java/com/letskodeit/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letskodeit-mevan-projet/src/main/java/com/letskodeit/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letskodeit-mevan-projet/src/main/java/com/letskodeit/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letskodeit-mevan-projet/src/main/java/com/letskodeit/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letskodeit-mevan-projet/src/test/java/com/letskodeit/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letskodeit-mevan-projet/src/test/java/com/letskodeit/testsuite/ClickOnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orangehrm-mavan-project/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orangehrm-mavan-project/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orangehrm-mavan-project/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orangehrm-mavan-project/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orangehrm-mavan-project/src/main/java/com/orangehrm/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orangehrm-mavan-project/src/main/java/com/orangehrm/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orangehrm-mavan-project/src/main/java/com/orangehrm/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orangehrm-mavan-project/src/main/java/com/orangehrm/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orangehrm-mavan-project/src/main/java/com/orangehrm/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orangehrm-mavan-project/src/test/java/com/orangehrm/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../orangehrm-mavan-project/src/test/java/com/orangehrm/testsuite/ClickOnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/homework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/homework29032020/src/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/homework29032020/src/main/java/Computers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/homework29032020/src/main/java/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/homework29032020/src/main/java/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/homework29032020/src/main/java/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/homework29032020/src/main/java/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/homework29032020/src/main/java/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/myhomework29march/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/myhomework29march/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/myhomework29march/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/myhomework29march/src/homework/BooksClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/myhomework29march/src/homework/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/myhomework29march/src/homework/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/myhomework29march/src/homework29/LogInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/myhomework29march/src/homework29/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sample-maven-project/myhomework29march/src/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wcht-maven-project/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wcht-maven-project/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wcht-maven-project/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wcht-maven-project/src/main/java/org/wcht/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wcht-maven-project/src/main/java/org/wcht/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wcht-maven-project/src/main/java/org/wcht/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wcht-maven-project/src/main/java/org/wcht/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wcht-maven-project/src/main/java/org/wcht/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wcht-maven-project/src/test/java/org/wcht/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wcht-maven-project/src/test/java/org/wcht/testsuite/MouseHowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank-maven-project/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank-maven-project/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/main/java/com/bank/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/main/java/com/bank/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/main/java/com/bank/pages/AccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/main/java/com/bank/pages/AddCustomerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/main/java/com/bank/pages/BankManagerLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/main/java/com/bank/pages/CustomerLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/main/java/com/bank/pages/CustomersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/main/java/com/bank/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/main/java/com/bank/pages/OpenAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/main/java/com/bank/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/test/java/com/bank/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xyz-bank/src/test/java/com/bank/testsuite/BankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork-15-02-2020" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork-15-02-2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../barclays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../barclays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../harrow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../harrow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../harrow/out/production/harrow/browsertwsting/FireFoxTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../harrow/out/production/harrow/browsertwsting/FireFoxTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../harrow/src/browsertwsting/FireFoxTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../harrow/src/browsertwsting/FireFoxTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework07032020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework07032020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework210320/driver/src/BookClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sample-maven-project/homework29032020/src/main/java/BookClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework210320/driver/src/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework_22.02.2020" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework_22.02.2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-practice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nopcommerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../nopcommerce/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nopcommerce/nopcommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../nopcommerce/nopcommerce.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium-practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-practice/selenium-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium-practice/selenium-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-practice/src/FireFoxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium-practice/src/FireFoxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-practice/src/alert/TestAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium-practice/src/alert/TestAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wcht/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../wcht/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1YnymV2V3ZUK3H4AhouB6wL6dw0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/soft/Selenium-Jar/selenium-server-standalone-3.141.59.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="checkboxandradiobutton" />
+      <recent name="waits" />
+      <recent name="javascript" />
+      <recent name="alert" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PrimeBatch_3\selenium-practice\src" />
+      <recent name="C:\PrimeBatch_3\selenium-practice\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTest">
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDropDown.dropDownExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selectclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selectclass" />
+      <option name="MAIN_CLASS_NAME" value="selectclass.TestDropDown" />
+      <option name="METHOD_NAME" value="dropDownExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSliders.sliderExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="actionclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="actionclass" />
+      <option name="MAIN_CLASS_NAME" value="actionclass.TestSliders" />
+      <option name="METHOD_NAME" value="sliderExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWindowScroll.windowScrollExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javascript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javascript" />
+      <option name="MAIN_CLASS_NAME" value="javascript.TestWindowScroll" />
+      <option name="METHOD_NAME" value="windowScrollExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWindowSize.windowSizeExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javascript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javascript" />
+      <option name="MAIN_CLASS_NAME" value="javascript.TestWindowSize" />
+      <option name="METHOD_NAME" value="windowSizeExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.TestDropDown.dropDownExample" />
+        <item itemvalue="JUnit.TestWindowSize.windowSizeExample" />
+        <item itemvalue="JUnit.TestWindowScroll.windowScrollExample" />
+        <item itemvalue="JUnit.TestSliders.sliderExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a5ec4d2-5937-4b55-9c73-62ff0f5ec02e" name="Default Changelist" comment="" />
+      <created>1583592811849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583592811849</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="98" y="68" width="1170" height="592" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584207587264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1458" y="20" width="1096" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202253359" />
+    <state x="98" y="68" width="1170" height="592" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1584207587264" />
+    <state x="-1243" y="-28" key="#com.intellij.ide.util.MemberChooser" timestamp="1584739402764">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state x="-1243" y="-28" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584739402764" />
+    <state x="534" y="257" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585333950076">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="257" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1585333950076" />
+    <state x="-1598" y="-132" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584703362141">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state x="-1598" y="-132" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584703362141" />
+    <state x="-1355" y="18" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584738592403">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state x="-1355" y="18" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584738592403" />
+    <state x="342" y="100" key="FileChooserDialogImpl" timestamp="1585333854475">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1686" y="63" key="FileChooserDialogImpl/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584199543640" />
+    <state x="342" y="14" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584138181588" />
+    <state x="1846" y="143" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584117753450" />
+    <state x="342" y="100" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585333854475" />
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1585755567959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1853" height="752" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584802742444" />
+    <state width="1213" height="357" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585755567959" />
+    <state width="1853" height="239" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470274" />
+    <state width="1303" height="469" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584719595689" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1585755567959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1853" height="752" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584802742444" />
+    <state width="1213" height="357" key="GridCell.Tab.0.center/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585755567959" />
+    <state width="1853" height="239" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470273" />
+    <state width="1303" height="469" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584719595689" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1585755567959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1853" height="752" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584802742444" />
+    <state width="1213" height="357" key="GridCell.Tab.0.left/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585755567959" />
+    <state width="1853" height="239" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470273" />
+    <state width="1303" height="469" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584719595689" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1585755567959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1853" height="752" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584802742444" />
+    <state width="1213" height="357" key="GridCell.Tab.0.right/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585755567959" />
+    <state width="1853" height="239" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470274" />
+    <state width="1303" height="469" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584719595689" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1585333901411">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1920" y="-132" key="SettingsEditor/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584788979919" />
+    <state x="1366" y="-72" key="SettingsEditor/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584199546445" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584650883087" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585333901411" />
+    <state x="373" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1586620634106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="373" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586620634106" />
+    <state x="1890" y="264" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584401413539" />
+    <state x="373" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585740834394" />
+    <state x="65" y="0" key="new project wizard" timestamp="1585741121315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585409453633" />
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585741121315" />
+    <state x="-1434" y="-132" width="1009" height="1036" key="search.everywhere.popup" timestamp="1584788507915">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state x="-1434" y="-132" width="1009" height="1036" key="search.everywhere.popup/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584788507915" />
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584650832158" />
+  </component>
+</project>

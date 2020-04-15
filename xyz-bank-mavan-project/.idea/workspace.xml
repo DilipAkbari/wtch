@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ff75368-90e2-4fd9-ba17-26ebb8c6ea05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../barclay-mavan-project/.idea/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../barclay-mavan-project/.idea/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../barclay-mavan-project/.idea/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../barclay-mavan-project/src/main/java/com/barclay/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../barclay-mavan-project/src/main/java/com/barclay/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../barclay-mavan-project/src/main/java/com/barclay/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../barclay-mavan-project/src/main/java/com/barclay/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../barclay-mavan-project/src/main/java/com/barclay/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../barclay-mavan-project/src/test/java/com/barclay/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../barclay-mavan-project/src/test/java/com/barclay/testsuite/MouseHowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/pages/ComputerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/pages/DesktopPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/main/java/com/nopcommerce/demo/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/test/java/com/nopcommerce/demo/testsuite/ComputerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/test/java/com/nopcommerce/demo/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demonopcommerce-maven-myproject/src/test/java/com/nopcommerce/demo/testsuite/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git dowbload clone/selenium-practice-master/src/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/src/main/java/com/harrow/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/src/main/java/com/harrow/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/src/main/java/com/harrow/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/src/main/java/com/harrow/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/src/main/java/com/harrow/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/src/test/java/com/harrow/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrow-council/src/test/java/com/harrow/testsuite/MouseHowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrowcouncil-maven-work/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrowcouncil-maven-work/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../harrowcouncil-maven-work/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework21032020/src/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../letskodeit-mevan-projet/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../letskodeit-mevan-projet/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../letskodeit-mevan-projet/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../letskodeit-mevan-projet/src/main/java/com/letskodeit/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../letskodeit-mevan-projet/src/main/java/com/letskodeit/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../letskodeit-mevan-projet/src/main/java/com/letskodeit/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../letskodeit-mevan-projet/src/main/java/com/letskodeit/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../letskodeit-mevan-projet/src/main/java/com/letskodeit/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../letskodeit-mevan-projet/src/test/java/com/letskodeit/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../letskodeit-mevan-projet/src/test/java/com/letskodeit/testsuite/ClickOnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-mavan-project/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-mavan-project/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-mavan-project/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-mavan-project/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-mavan-project/src/main/java/com/orangehrm/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-mavan-project/src/main/java/com/orangehrm/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-mavan-project/src/main/java/com/orangehrm/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-mavan-project/src/main/java/com/orangehrm/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-mavan-project/src/main/java/com/orangehrm/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-mavan-project/src/test/java/com/orangehrm/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-mavan-project/src/test/java/com/orangehrm/testsuite/ClickOnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/Computers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/homework/BooksClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/homework/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/homework/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/homework29/LogInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/homework29/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/myhomework29march/src/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcht-maven-project/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcht-maven-project/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcht-maven-project/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcht-maven-project/src/main/java/org/wcht/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcht-maven-project/src/main/java/org/wcht/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcht-maven-project/src/main/java/org/wcht/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcht-maven-project/src/main/java/org/wcht/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcht-maven-project/src/main/java/org/wcht/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcht-maven-project/src/test/java/org/wcht/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcht-maven-project/src/test/java/org/wcht/testsuite/MouseHowerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork-15-02-2020" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork-15-02-2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barclays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../barclays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../harrow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrow/out/production/harrow/browsertwsting/FireFoxTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../harrow/out/production/harrow/browsertwsting/FireFoxTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrow/src/browsertwsting/FireFoxTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../harrow/src/browsertwsting/FireFoxTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework07032020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework07032020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework210320/driver/src/BookClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-maven-project/homework29032020/src/main/java/BookClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework210320/driver/src/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22.02.2020" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_22.02.2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../java-practice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerce/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerce/nopcommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerce/nopcommerce.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/selenium-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/selenium-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/FireFoxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/FireFoxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/alert/TestAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/alert/TestAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wcht/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wcht/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\akbar\IdeaProjects\xyz-bank-mavan-project\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aLEgrUJWfd0FPcpHn6uFnunFlV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\akbar\IdeaProjects\xyz-bank-mavan-project\src\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\akbar\IdeaProjects\xyz-bank-mavan-project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ff75368-90e2-4fd9-ba17-26ebb8c6ea05" name="Default Changelist" comment="" />
+      <created>1586506587508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586506587508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1586507007962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586507007962" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1586507007962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586507007962" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1586507007962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586507007962" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1586507007962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586507007962" />
+    <state x="72" y="73" key="new project wizard" timestamp="1586506946417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="72" y="73" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586506946417" />
+  </component>
+</project>
