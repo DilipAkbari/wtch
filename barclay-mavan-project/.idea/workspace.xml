@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b8e7635-bf8d-4ed6-98ac-9191b6a58b2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HomeWork-15-02-2020" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork-15-02-2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG-nopCommerceDemo-maven-project" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG-nopCommerceDemo-maven-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG-wcht-maven-project" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG-wcht-maven-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG-xyz-bank-maven-project" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG-xyz-bank-maven-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22.02.2020" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_22.02.2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../java-practice" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\akbar\IdeaProjects\barclay-mavan-project\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aD6HdYTvdNXDFL3SSXoaSNlx8v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestNG-barclay-mavan-project" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\akbar\IdeaProjects\barclay-mavan-project" />
+      <recent name="C:\Users\akbar\IdeaProjects\barclay-mavan-project\.idea" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\akbar\IdeaProjects\barclay-mavan-project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/akbar/IdeaProjects/barclay-mavan-project/src/test/java/com/barclay/resources/runners/testng.xml">
+    <configuration name="C:/Users/akbar/IdeaProjects/barclay-mavan-project/src/test/java/com/barclay/resources/runners/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="barclay-mavan-project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/barclay/resources/runners/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MouseHowerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="barclay-mavan-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.barclay.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.barclay.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.barclay.testsuite.MouseHowerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/akbar/IdeaProjects/barclay-mavan-project/src/test/java/com/barclay/resources/runners/testng.xml" />
+        <item itemvalue="TestNG.MouseHowerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b8e7635-bf8d-4ed6-98ac-9191b6a58b2a" name="Default Changelist" comment="" />
+      <created>1586257730376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586257730376</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1586789817373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586789817373" />
+    <state x="2392" y="392" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586941916496">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2392" y="392" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586941916496" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1586965116652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586965116652" />
+    <state width="1306" height="116" key="GridCell.Tab.0.bottom" timestamp="1586958628891">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1306" height="116" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586954352292" />
+    <state width="1306" height="116" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586958628891" />
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586260231999" />
+    <state width="1306" height="116" key="GridCell.Tab.0.center" timestamp="1586958628891">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1306" height="116" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586954352292" />
+    <state width="1306" height="116" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586958628891" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586260231999" />
+    <state width="1306" height="116" key="GridCell.Tab.0.left" timestamp="1586958628891">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1306" height="116" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586954352292" />
+    <state width="1306" height="116" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586958628891" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586260231998" />
+    <state width="1306" height="116" key="GridCell.Tab.0.right" timestamp="1586958628891">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1306" height="116" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586954352292" />
+    <state width="1306" height="116" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586958628891" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586260231999" />
+    <state x="1916" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1586958961178">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586953809010" />
+    <state x="1916" y="276" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586958961178" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586940624870" />
+    <state x="390" y="0" width="586" height="728" key="find.popup" timestamp="1586789987221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="586" height="728" key="find.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586789987221" />
+    <state x="115" y="10" width="1235" height="665" key="new project wizard" timestamp="1586507714901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="10" width="1235" height="665" key="new project wizard/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586507714901" />
+    <state x="65" y="73" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586264006141" />
+  </component>
+</project>
